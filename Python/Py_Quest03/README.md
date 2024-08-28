@@ -2,7 +2,7 @@
 - 코더 : 최성호, 윤석진
 - 리뷰어 : 조계현
 
-![a](0828,png)
+![a](Python/Py_Quest03/0828.png)
 
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
